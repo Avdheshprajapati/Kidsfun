@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultron</string>
+    <string name="app_name_short">Ultron</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_voice">Voice</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+    <string name="greeting_night">Good Night</string>
+    <string name="ai_status_ready">Ready</string>
+    <string name="ai_status_listening">Listening…</string>
+    <string name="ai_status_thinking">Thinking…</string>
+    <string name="ai_status_speaking">Speaking…</string>
+    <string name="prompt_placeholder">How can I help today?</string>
+    <string name="quick_action_research">Research</string>
+    <string name="quick_action_write_email">Write Email</string>
+    <string name="quick_action_generate_code">Generate Code</string>
+    <string name="quick_action_translate">Translate</string>
+    <string name="quick_action_plan_day">Plan Day</string>
+    <string name="quick_action_analyze_image">Analyze Image</string>
+    <string name="quick_action_create_presentation">Create Presentation</string>
+    <string name="quick_action_build_website">Build Website</string>
+
+    <!-- Memory Screen -->
+    <string name="memory_title">Memory</string>
+    <string name="memory_timeline">Timeline</string>
+    <string name="memory_pinned">Pinned</string>
+    <string name="memory_graph">Knowledge Map</string>
+    <string name="memory_analytics">Analytics</string>
+    <string name="memory_search_hint">Search memories…</string>
+    <string name="memory_filter_all">All</string>
+    <string name="memory_filter_work">Work</string>
+    <string name="memory_filter_personal">Personal</string>
+    <string name="memory_filter_ideas">Ideas</string>
+    <string name="memory_filter_health">Health</string>
+    <string name="memory_filter_finance">Finance</string>
+    <string name="memory_filter_coding">Coding</string>
+    <string name="memory_filter_education">Education</string>
+    <string name="memory_empty">No memories yet. Start a conversation to build your knowledge base.</string>
+    <string name="memory_total">Total Memories</string>
+    <string name="memory_growth">Growth Rate</string>
+    <string name="memory_categories">Categories</string>
+    <string name="memory_confidence">Confidence Score</string>
+
+    <!-- Tools Screen -->
+    <string name="tools_title">Tools</string>
+    <string name="tools_search_hint">Search tools…</string>
+    <string name="tools_category_productivity">Productivity</string>
+    <string name="tools_category_research">Research</string>
+    <string name="tools_category_developer">Developer</string>
+    <string name="tools_category_creative">Creative</string>
+    <string name="tools_category_automation">Automation</string>
+    <string name="tools_category_business">Business</string>
+    <string name="tools_category_education">Education</string>
+    <string name="tools_category_media">Media</string>
+    <string name="tools_category_security">Cyber Security</string>
+    <string name="tools_category_health">Health</string>
+    <string name="tools_featured">Featured</string>
+    <string name="tools_favorites">Favorites</string>
+    <string name="tools_recent">Recently Used</string>
+    <string name="tools_pinned">Pinned</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_new_conversation">New Conversation</string>
+    <string name="chat_input_hint">Message Ultron…</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_voice">Voice</string>
+    <string name="chat_attach">Attach</string>
+    <string name="chat_streaming">Ultron is typing…</string>
+    <string name="chat_empty">Start a conversation with Ultron</string>
+    <string name="chat_error">Something went wrong. Please try again.</string>
+    <string name="chat_copy_code">Copy Code</string>
+    <string name="chat_regenerate">Regenerate</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_settings">Settings</string>
+    <string name="profile_appearance">Appearance</string>
+    <string name="profile_voice">Voice</string>
+    <string name="profile_privacy">Privacy & Security</string>
+    <string name="profile_about">About</string>
+    <string name="profile_version">Version %1$s</string>
+    <string name="profile_sign_out">Sign Out</string>
+
+    <!-- Settings -->
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_dark">Dark (AMOLED)</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_data">Data & Storage</string>
+    <string name="settings_advanced">Advanced</string>
+
+    <!-- Voice -->
+    <string name="voice_tap_to_talk">Tap to talk</string>
+    <string name="voice_hold_to_talk">Hold to talk</string>
+    <string name="voice_listening">Listening…</string>
+    <string name="voice_processing">Processing…</string>
+    <string name="voice_permission_required">Microphone permission required</string>
+
+    <!-- Common -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_pin">Pin</string>
+    <string name="action_unpin">Unpin</string>
+    <string name="action_share">Share</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="loading">Loading…</string>
+    <string name="error_generic">An error occurred</string>
+    <string name="empty_state">No data available</string>
+</resources>

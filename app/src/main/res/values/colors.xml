@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Theme Colors -->
+    <color name="amoled_black">#FF05070B</color>
+    <color name="amoled_black_surface">#FF0A0D12</color>
+    <color name="amoled_black_elevated">#FF0F1218</color>
+    <color name="amoled_black_card">#FF13161D</color>
+
+    <!-- Glass/Frost Colors -->
+    <color name="glass_white_10">#1AFFFFFF</color>
+    <color name="glass_white_8">#14FFFFFF</color>
+    <color name="glass_white_6">#0FFFFFFFF</color>
+    <color name="glass_white_4">#0AFFFFFF</color>
+    <color name="glass_white_2">#05FFFFFF</color>
+    <color name="glass_white_1">#03FFFFFF</color>
+
+    <color name="glass_black_10">#1A000000</color>
+    <color name="glass_black_20">#33000000</color>
+    <color name="glass_black_40">#66000000</color>
+    <color name="glass_black_60">#99000000</color>
+
+    <!-- Neon Blue Glow -->
+    <color name="neon_blue">#FF00D4FF</color>
+    <color name="neon_blue_dim">#8000D4FF</color>
+    <color name="neon_blue_soft">#3300D4FF</color>
+    <color name="neon_blue_glow">#4D00D4FF</color>
+
+    <!-- Electric Cyan Accent -->
+    <color name="electric_cyan">#FF00FFFF</color>
+    <color name="electric_cyan_dim">#8000FFFF</color>
+    <color name="electric_cyan_soft">#3300FFFF</color>
+    <color name="electric_cyan_glow">#4D00FFFF</color>
+
+    <!-- Soft Purple Highlights -->
+    <color name="soft_purple">#FFB880FF</color>
+    <color name="soft_purple_dim">#80B880FF</color>
+    <color name="soft_purple_soft">#33B880FF</color>
+    <color name="soft_purple_glow">#4DB880FF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_tertiary">#80FFFFFF</color>
+    <color name="text_disabled">#4DFFFFFF</color>
+    <color name="text_on_neon">#FF05070B</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#FF00E676</color>
+    <color name="warning_amber">#FFFFD600</color>
+    <color name="error_red">#FFFF1744</color>
+    <color name="info_blue">#FF2979FF</color>
+
+    <!-- Borders -->
+    <color name="border_subtle">#1AFFFFFF</color>
+    <color name="border_default">#33FFFFFF</color>
+    <color name="border_bright">#4DFFFFFF</color>
+    <color name="border_neon">#8000D4FF</color>
+
+    <!-- Shadows -->
+    <color name="shadow_ambient">#1A000000</color>
+    <color name="shadow_key">#33000000</color>
+    <color name="shadow_neon_blue">#3300D4FF</color>
+    <color name="shadow_neon_cyan">#3300FFFF</color>
+    <color name="shadow_purple">#33B880FF</color>
+
+    <!-- Overlay -->
+    <color name="overlay_dark">#CC05070B</color>
+    <color name="overlay_modal">#E605070B</color>
+</resources>
